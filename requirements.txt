@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+numpy
+pillow
+matplotlib
+# only for downloading the CubiCasa5K weights from Google Drive:
+gdown
