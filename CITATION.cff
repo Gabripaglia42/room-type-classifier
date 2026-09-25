@@ -11,7 +11,7 @@ license: Apache-2.0
 repository-code: "https://github.com/Gabripaglia42/room-type-classifier"
 abstract: >-
   A ResNet-18 room-type classifier for floor plans, trained on CubiCasa5K and
-  adapted to Danish listing plans with a hand-labelled dataset of 649 rooms;
+  adapted to Danish listing plans with 649 human-verified rooms;
   accuracy on Danish plans rose from 47.8% to 84.3% (house-grouped 5-fold
   cross-validation).
 keywords:
