@@ -8,7 +8,7 @@ type: software
 version: "1.0.0"
 date-released: "2026-09-25"
 license: Apache-2.0
-repository-code: "https://github.com/your-github-username/room-type-classifier"
+repository-code: "https://github.com/Gabripaglia42/room-type-classifier"
 abstract: >-
   A ResNet-18 room-type classifier for floor plans, trained on CubiCasa5K and
   adapted to Danish listing plans with a hand-labelled dataset of 649 rooms;
