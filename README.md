@@ -1,6 +1,6 @@
 # Room-Type Classifier for Floor Plans
 
-![tests](https://github.com/your-github-username/room-type-classifier/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Gabripaglia42/room-type-classifier/actions/workflows/tests.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![license](https://img.shields.io/badge/license-Apache%202.0-green)
 ![pytorch](https://img.shields.io/badge/PyTorch-ResNet--18-ee4c2c)
@@ -69,7 +69,7 @@ They follow the grouping used by the CubiCasa5K authors.
 ## Quick start
 
 ```bash
-git clone https://github.com/your-github-username/room-type-classifier.git
+git clone https://github.com/Gabripaglia42/room-type-classifier.git
 cd room-type-classifier
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
